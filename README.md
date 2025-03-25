@@ -39,11 +39,11 @@ A modern full-stack e-commerce platform built with bootstrap css, and php(Larave
 4. Frontend Development:
    - Integrate with backend APIs.
    - Add state management for cart/authentication.
-5. Payment Integration:
+## Payment Integration:
    -
-6. Testing:
+## Testing:
    - Unit tests
-7. Deployment:
+## Deployment:
    - Frontend, backend and database to be deployed and hosted
 
 
