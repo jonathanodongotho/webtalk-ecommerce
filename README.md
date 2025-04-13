@@ -1,4 +1,4 @@
-# webtalk-ecommerce
+# Ultra Electronics (e-commerce name)
 A modern full-stack e-commerce platform built with bootstrap css, and python. Features include user authentication, product catalog, shopping cart, secure checkout including payment gateway, and an admin dashboard for order management.
 # workflow
 ## Defining Requirements
