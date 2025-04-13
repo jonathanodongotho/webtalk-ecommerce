@@ -1,5 +1,5 @@
 # webtalk-ecommerce
-A modern full-stack e-commerce platform built with bootstrap css, and php(Laravel). Features include user authentication, product catalog, shopping cart, secure checkout, and an admin dashboard for order management.
+A modern full-stack e-commerce platform built with bootstrap css, and python. Features include user authentication, product catalog, shopping cart, secure checkout, and an admin dashboard for order management.
 # workflow
 ## Defining Requirements
 - Type of e-commerce: B2C (Business to Consumer)
