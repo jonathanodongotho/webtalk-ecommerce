@@ -11,13 +11,13 @@ A modern full-stack e-commerce platform built with bootstrap css, and python. Fe
   - Order management (user & admin panel)
   - Reviews/ratings
   - Shipping/tracking integration
-- Target Audience: Mobile-first - Desktop - single-language support
+- Target Audience: Mobile-first - Desktop - multiple-language support
 
 ## Tech Stack
 ### Frontend (UI/UX):
 - CSS: Bootstrap.
 ### Backend (Server + Database):
-- Language: PHP (Laravel).
+- Language: Python
 - Database: 
   - SQL: MySQL.
 
